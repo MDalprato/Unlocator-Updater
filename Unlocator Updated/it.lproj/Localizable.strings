@@ -1,0 +1,27 @@
+/* Localized versions of Info.plist keys */
+/* English -> Italian" */
+
+"No Internet connection" = "Nessuna connessione a Internet";
+"Unlocator Updater" = "Unlocator Updater";
+"No Internet connection, cannot proceed." = "Nessuna connessione a Internet, impossibile procedere";
+"Go back to Login" = "Torna al Login";
+"Signed in as" = "Loggato come";
+"Not Logged" = "Non Loggato";
+"An unexpected error has occurred" = "Si è verificato un errore sconosciuto";
+"No Internet connection, cannot proceed." = "Nessuna connessione a Internet, impossibile procedere";
+"Unexpected response from the network" = "Ricevuta una risposta non valida";
+"Latest update:" = "Ultimo update:";
+"Unlocator said that" = "Unlocator ha detto che";
+"New Version Available" = "Nuova versione disponibile";
+"Version" = "Versione";
+"Ready" = "Pronto";
+"Download completed. You will find the new version in your 'Downloads' folder." = "Download completato. Troverai l'applicazione salvata nella cartella 'Downloads' del Mac";
+"To reset all the settings, the application must be reloaded." = "Per rimuovere tutte le impostazioni è necessario chiudere e riaprire l'applicazione";
+"This is the latest version of the Application. \nIf a new update is available, you'll be notified by a pop-up alert." = "Questa è l'ultima versione disponibile. \nVerrai notificato appena una nuova versione sarà disponibile";
+"added" = "appena aggiunto.";
+"exists" = "già presente.";
+"Configuration Error ! You cannot configure an interval less then 800 seconds. /n Check the configuration file for more information"="Rilvato errore nella confiugrazione dell'applicaizone. /n Non è possibile caricare intervalli di aggiornmento inferiori a 800 secondi. Controlla il file prima di procedere.";
+"Signed in with the private key" = "Loggato utilizzando la Chiave Privata";
+"No update required" = "Nessun update in coda";
+"Set language" = "Imposta Lingua";
+"Play" = "Play";

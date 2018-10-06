@@ -1,0 +1,27 @@
+/* Localized versions of Info.plist keys */
+/* English -> German" */
+
+"No Internet connection" = "Keine Internetverbindung";
+"Unlocator Updater" = "Unlocator Updater";
+"No Internet connection, cannot proceed." = "Keine Internetverbindung. Vorgang abgebrochen.";
+"Go back to Login" = "Zurück zur Anmeldeseite";
+"Signed in as" = "Angemeldet als";
+"Not Logged" = "Nicht eingeloggt";
+"An unexpected error has occurred" = "Es ist ein unerwarteter Fehler aufgetreten";
+"No Internet connection, cannot proceed." = "Keine Internetverbindung, Vorgang abgebrochen.";
+"Unexpected response from the network" = "Unerwartete Antwort aus dem Netzwerk";
+"Latest update:" = "Letzte Aktualisierung:";
+"Unlocator said that" = "Unlocator sagt, dass";
+"New Version Available" = "Aktualisierung verfügbar";
+"Version" = "Version";
+"Ready" = "Bereit";
+"Download completed. You will find the new version in your 'Downloads' folder." = "Download abgeschlossen. Sie finden die neue Version in Ihrem 'Downloads Ordner." ;
+"To reset all the settings, the application must be reloaded." = "Um alle Einstellungen zurückzusetzen, muss die Anwendung neu geladen werden";
+"This is the latest version of the Application. \nIf a new update is available, you'll be notified by a pop-up alert." = "Dies ist die neueste Version der Anwendung. \ nWenn ein neues Update verfügbar ist, werden Sie durch ein Pop-up-Benachrichtigung mitgeteilt.";
+"added" = "hinzugefügt.";
+"exists" = "vorhanden.";
+"Configuration Error ! You cannot configure an interval less then 800 seconds. /n Check the configuration file for more information"="Konfigurationsfehler! Sie können nicht konfigurieren ein Intervall von weniger als 800 Sekunden. / n Prüfen Sie die Konfigurationsdatei für weitere Informationen";
+"Signed in with the private key" = "Mit dem privaten Schlüssel signiert in";
+"No update required" = "Keine Aktualisierung erforderlich";
+"Set language" = "Sätze Sprache";
+"Play" = "Spielen";

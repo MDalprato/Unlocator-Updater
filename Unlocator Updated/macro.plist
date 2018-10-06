@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>medialist</key>
+	<dict>
+		<key>Gossip Girl</key>
+		<dict>
+			<key>Service</key>
+			<string>Netflix</string>
+			<key>International</key>
+			<string>us</string>
+			<key>Kind</key>
+			<string>TV Show</string>
+			<key>Logo</key>
+			<string>/Users/marcodalprato/Pictures/tvseries/gossipgirl.jpg</string>
+			<key>Link</key>
+			<string>http://www.netflix.com/title/70143811</string>
+		</dict>
+		<key>Friends</key>
+		<dict>
+			<key>Service</key>
+			<string>Netflix</string>
+			<key>International</key>
+			<string>us</string>
+			<key>Kind</key>
+			<string>TV Show</string>
+			<key>Logo</key>
+			<string>/Users/marcodalprato/Pictures/tvseries/friends.jpeg</string>
+			<key>Link</key>
+			<string>http://www.netflix.com/title/70153404</string>
+		</dict>
+		<key>Suits</key>
+		<dict>
+			<key>Service</key>
+			<string>Netflix</string>
+			<key>International</key>
+			<string>gb</string>
+			<key>Kind</key>
+			<string>TV Show</string>
+			<key>Logo</key>
+			<string>/Users/marcodalprato/Pictures/tvseries/suits.jpg</string>
+			<key>Link</key>
+			<string>http://www.netflix.com/title/70195800</string>
+		</dict>
+		<key>Narcos</key>
+		<dict>
+			<key>Service</key>
+			<string>Netflix</string>
+			<key>International</key>
+			<string>us</string>
+			<key>Kind</key>
+			<string>TV Show</string>
+			<key>Logo</key>
+			<string>/Users/marcodalprato/Pictures/tvseries/narcos.jpg</string>
+			<key>Link</key>
+			<string>http://www.netflix.com/title/80025172</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

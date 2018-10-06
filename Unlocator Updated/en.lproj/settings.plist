@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marcodalprato_button_link</key>
+	<string>http://marcodalprato.com/unlocator-updater/</string>
+	<key>marcodalprato_home_link</key>
+	<string>http://www.marcodalprato.com</string>
+	<key>unlocator_member_link</key>
+	<string>https://unlocator.com/account/member</string>
+	<key>international_service_url</key>
+	<string>http://unlocator.com/tool/regions.xml</string>
+	<key>pre_url_string</key>
+	<string>http://unlo.it/</string>
+	<key>unlocator_register_link</key>
+	<string>https://unlocator.com/account/aff/go/G4ryH3xMrfqkFM2e</string>
+	<key>url_for_the_index_page</key>
+	<string>https://unlocator.com/account/login/index</string>
+	<key>timer_interval_list</key>
+	<dict>
+		<key>30 minutes</key>
+		<string>1800</string>
+		<key>15 minutes</key>
+		<string>900</string>
+		<key>45 minutes</key>
+		<string>2700</string>
+		<key>1 hour</key>
+		<string>3600</string>
+		<key>2 hours</key>
+		<string>7200</string>
+		<key>3 hours</key>
+		<string>10800</string>
+		<key>4 hours</key>
+		<string>14400</string>
+		<key>5 hours</key>
+		<string>18000</string>
+		<key>12 hours</key>
+		<string>43200</string>
+	</dict>
+</dict>
+</plist>

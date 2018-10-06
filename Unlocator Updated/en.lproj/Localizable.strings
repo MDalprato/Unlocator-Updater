@@ -1,0 +1,27 @@
+/* Localized versions of Info.plist keys */
+/* English -> English" */
+
+"No Internet connection" = "No Internet connection";
+"Unlocator Updater" = "Unlocator Updater";
+"No Internet connection, cannot proceed." = "No Internet connection, cannot proceed.";
+"Go back to Login" = "Go back to Login";
+"Signed in as" = "Signed in as";
+"Not Logged" = "Not Logged";
+"An unexpected error has occurred" = "An unexpected error has occurred";
+"No Internet connection, cannot proceed." = "No Internet connection, cannot proceed.";
+"Unexpected response from the network" = "Unexpected response from the network";
+"Latest update:" = "Latest update:";
+"Unlocator said that" = "Unlocator said that";
+"New Version Available" = "New Version Available";
+"Version" = "Version";
+"Ready" = "Ready";
+"Download completed. You will find the new version in your 'Downloads' folder." = "Download completed. You will find the new version in your 'Downloads' folder.";
+"To reset all the settings, the application must be reloaded." = "To reset all the settings, the application must be reloaded.";
+"This is the latest version of the Application. \nIf a new update is available, you'll be notified by a pop-up alert." = "This is the latest version of the Application. \nIf a new update is available, you'll be notified by a pop-up alert.";
+"added" = "just added.";
+"exists" = "already exists.";
+"Configuration Error ! You cannot configure an interval less then 800 seconds. /n Check the configuration file for more information" = "Configuration Error ! You cannot configure an interval less then 800 seconds. /n Check the configuration file for more information";
+"Signed in with the private key" = "Signed in with the private key";
+"No update required" = "No update required";
+"Set language" = "Set language";
+"Play" = "Play";
