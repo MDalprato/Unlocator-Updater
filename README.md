@@ -1,3 +1,5 @@
+⚠️ DEPRECATED, NO LONGER MAINTAINED
+
 # Unlocator-Updater
 
 <img src= "https://github.com/MDalprato/Unlocator-Updater/blob/master/uu_preview1.png?raw=true">
